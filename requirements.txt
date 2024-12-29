@@ -1,0 +1,11 @@
+kivy
+https://github.com/kivymd/KivyMD/archive/master.zip
+materialyoucolor
+exceptiongroup
+asyncgui
+asynckivy
+Cython
+virtualenv
+setuptools
+wheel
+buildozer
